@@ -1,0 +1,49 @@
+{
+	"label": "Kreaturen",
+	"entries": [
+		{
+			"id": "Cat",
+			"name": "Katze"
+		},
+		{
+			"id": "Centipede",
+			"name": "Tausendfüßler"
+		},
+		{
+			"id": "Crow",
+			"name": "Krähe"
+		},
+		{
+			"id": "Faerie",
+			"name": "Fee"
+		},
+		{
+			"id": "Frog",
+			"name": "Frosch"
+		},
+		{
+			"id": "Ghost",
+			"name": "Geist"
+		},
+		{
+			"id": "Mouse",
+			"name": "Maus"
+		},
+		{
+			"id": "Owl",
+			"name": "Eule"
+		},
+		{
+			"id": "Rat",
+			"name": "Ratte"
+		},
+		{
+			"id": "Snake",
+			"name": "Schlange"
+		},
+		{
+			"id": "Spider",
+			"name": "Spinne"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"label": "Mausritter Macros",
+	"entries": [
+		{
+			"id": "Generiere Hex"
+		},
+		{
+			"id": "NPC Generator"
+		},
+		{
+			"id": "Rolle Werte"
+		},
+		{
+			"id": "Rolle Wetter"
+		}
+	]
+}

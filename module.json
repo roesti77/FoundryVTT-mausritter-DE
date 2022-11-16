@@ -1,40 +1,29 @@
 {
-  "id": "module",
-  "title": "New Module",
-  "description": "",
+  "id": "FoundryVTT-mausritter-DE",
+  "title": "Mausritter German Translation (Deutsch)",
+  "description": "German language support for the Mausritter system",
   "version": "This is auto replaced",
   "library": "false",
   "manifestPlusVersion": "1.2.0",
   "compatibility": {
-    "minimum": 10,
-    "verified": 10,
-    "maximum": 11
+    "minimum": "10",
+    "verified": "10",
+    "maximum": "11"
   },
   "authors": [
     {
-      "name": "The League of Extraordinary FVTT Developers",
-      "url": "https://github.com/League-of-Foundry-Developers",
-      "discord": "discordID#0001"
+      "name": "roesti77",
+      "url": "https://github.com/roesti77"
     }
   ],
-  "relationships": {
-    "systems": [],
-    "requires": []
-  },
   "esmodules": [
-    "scripts/module.js"
-  ],
-  "scripts": [
-    "scripts/lib/lib.js"
-  ],
-  "styles": [
-    "styles/module.css"
+    "mausritter-de.js"
   ],
   "languages": [
     {
-      "lang": "en",
-      "name": "English",
-      "path": "languages/en.json"
+      "lang": "de",
+      "name": "Germnan",
+      "path": "languages/de.json"
     }
   ],
   "url": "This is auto replaced",
@@ -47,5 +36,38 @@
       "type": "icon",
       "url": "https://avatars2.githubusercontent.com/u/71292812?s=400&u=ccdb4eeb7abf551ca8f314e5a9bfd0479a4d3d41&v=4"
     }
-  ]
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "mausritter",
+        "type": "system",
+        "manifest": "https://github.com/Futil/foundry-mausritter",
+        "compatibility": {
+          "minimum": "0.2.7",
+          "verified": "0.2.7"
+        }
+      }
+    ],
+    "requires": [ 
+      {
+        "id": "babele",
+        "type": "module",
+        "manifest": "https://gitlab.com/riccisi/foundryvtt-babele/raw/master/module/module.json",
+        "compatibility": {
+          "minimum": "2.3.2",
+          "verified": "2.3.2"
+        }
+      },
+      {
+        "id": "lang-de",
+        "type": "module",
+        "manifest": "https://gitlab.com/henry4k/foundryvtt-lang-de/-/raw/master/module.json",
+        "compatibility": {
+          "minimum": "10.288",
+          "verified": "10.288"
+        }
+      }
+    ]
+  }
 }

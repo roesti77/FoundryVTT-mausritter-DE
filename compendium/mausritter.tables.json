@@ -1,0 +1,96 @@
+{
+	"label": "Tabellen",
+	"entries": [
+		{
+			"id": "Hex - Countryside",
+			"name": "Hex - Ländlich",
+			"description": ""
+		},
+		{
+			"id": "Hex - Forest",
+			"name": "Hex - Wald",
+			"description": ""
+		},
+		{
+			"id": "Hex - Human Town",
+			"name": "Hex - Menschenstadt",
+			"description": ""
+		},
+		{
+			"id": "Hex - Landmark Details",
+			"name": "Hex - Wahrzeichen",
+			"description": ""
+		},
+		{
+			"id": "Hex - River",
+			"name": "Hex - Fluss",
+			"description": ""
+		},
+		{
+			"id": "Hex - Type",
+			"name": "Hex - Typ",
+			"description": ""
+		},
+		{
+			"id": "Mousy Names - Birthname",
+			"name": "Mausnamen - Geburtsname",
+			"description": ""
+		},
+		{
+			"id": "Mousy Names - Matriname",
+			"name": "Mausnamen - Matronym",
+			"description": ""
+		},
+		{
+			"id": "Non-player mice - Appearance",
+			"name": "NPC Maus - Aussehen",
+			"description": ""
+		},
+		{
+			"id": "Non-player mice - Birthsign and Disposition",
+			"name": "NPC Maus - Geburtszeichen und Aufgabe",
+			"description": ""
+		},
+		{
+			"id": "Non-player mice - Quirk",
+			"name": "NPC Maus - Marotte",
+			"description": ""
+		},
+		{
+			"id": "Non-player mice - Relationship",
+			"name": "NPC Maus - Beziehung",
+			"description": ""
+		},
+		{
+			"id": "Non-player mice - Social position and Payment for service",
+			"name": "NPC Maus - Soziale Position und Lohn",
+			"description": ""
+		},
+		{
+			"id": "Non-player mice - Wants",
+			"name": "NPC Maus - braucht",
+			"description": ""
+		},
+		{
+			"id": "Physical detail",
+			"name": "Körperliches Merkmal",
+			"description": ""
+		},
+		{
+			"id": "Weather Autumn",
+			"name": "Wetter Herbst"
+		},
+		{
+			"id": "Weather Spring",
+			"name": "Wetter Frühling"
+		},
+		{
+			"id": "Weather Summer",
+			"name": "Wetter Sommer"
+		},
+		{
+			"id": "Weather Winter",
+			"name": "Wetter Winter"
+		}
+	]
+}

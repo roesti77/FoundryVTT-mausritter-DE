@@ -1,0 +1,260 @@
+{
+	"label": "Ausrüstung",
+	"entries": [
+		{
+			"id": "Arrows",
+			"name": "Pfeile",
+			"description": ""
+		},
+		{
+			"id": "Battery",
+			"name": "Batterie",
+			"description": ""
+		},
+		{
+			"id": "Bedroll",
+			"name": "Schlafsack",
+			"description": ""
+		},
+		{
+			"id": "Bellows",
+			"name": "Balg",
+			"description": ""
+		},
+		{
+			"id": "Book",
+			"name": "Buch",
+			"description": ""
+		},
+		{
+			"id": "Bottle",
+			"name": "Flasche",
+			"description": ""
+		},
+		{
+			"id": "Bucket",
+			"name": "Eimer",
+			"description": ""
+		},
+		{
+			"id": "Caltrops",
+			"name": "Krähenfuß",
+			"description": ""
+		},
+		{
+			"id": "Chalk",
+			"name": "Kreide",
+			"description": ""
+		},
+		{
+			"id": "Cheese",
+			"name": "Käse",
+			"description": ""
+		},
+		{
+			"id": "Cheesewheel",
+			"name": "Käserad",
+			"description": ""
+		},
+		{
+			"id": "Chisel",
+			"name": "Meißel",
+			"description": ""
+		},
+		{
+			"id": "Cookpots",
+			"name": "Kochtöpfe",
+			"description": ""
+		},
+		{
+			"id": "Crowbar",
+			"name": "Brecheisen",
+			"description": ""
+		},
+		{
+			"id": "Dice",
+			"name": "Würfel",
+			"description": ""
+		},
+		{
+			"id": "Drill",
+			"name": "Bohrer",
+			"description": ""
+		},
+		{
+			"id": "Electric Lantern",
+			"name": "Taschenlampe",
+			"description": ""
+		},
+		{
+			"id": "Fishing Hook",
+			"name": "Angelhaken",
+			"description": ""
+		},
+		{
+			"id": "Glue",
+			"name": "Leim",
+			"description": ""
+		},
+		{
+			"id": "Grease",
+			"name": "Schmierfett",
+			"description": ""
+		},
+		{
+			"id": "Hammer",
+			"name": "Hammer",
+			"description": ""
+		},
+		{
+			"id": "Hourglass",
+			"name": "Sanduhr",
+			"description": ""
+		},
+		{
+			"id": "Incense Stick",
+			"name": "Weihrauch",
+			"description": ""
+		},
+		{
+			"id": "Instrument",
+			"name": "Instrument",
+			"description": ""
+		},
+		{
+			"id": "Key",
+			"name": "Schlüssel",
+			"description": ""
+		},
+		{
+			"id": "Lantern",
+			"name": "Laterne",
+			"description": ""
+		},
+		{
+			"id": "Lens",
+			"name": "Linse",
+			"description": ""
+		},
+		{
+			"id": "Lockpicks",
+			"name": "Dietriche",
+			"description": ""
+		},
+		{
+			"id": "Matchbox",
+			"name": "Streichhölzer",
+			"description": ""
+		},
+		{
+			"id": "Metal File",
+			"name": "Metallfeile",
+			"description": ""
+		},
+		{
+			"id": "Mirror",
+			"name": "Spiegel",
+			"description": ""
+		},
+		{
+			"id": "Moustrap",
+			"name": "Mausefalle",
+			"description": ""
+		},
+		{
+			"id": "Necklace Chain",
+			"name": "Halskette",
+			"description": null
+		},
+		{
+			"id": "Net",
+			"name": "Netz",
+			"description": ""
+		},
+		{
+			"id": "Padlock and Key",
+			"name": "Vorhängeschloss und Schlüssel",
+			"description": ""
+		},
+		{
+			"id": "Perfume",
+			"name": "Parfüm",
+			"description": ""
+		},
+		{
+			"id": "Pip Purse",
+			"name": "Geldbörse",
+			"description": ""
+		},
+		{
+			"id": "Poison",
+			"name": "Gift",
+			"description": ""
+		},
+		{
+			"id": "Rations",
+			"name": "Rationen",
+			"description": ""
+		},
+		{
+			"id": "Shovel",
+			"name": "Schaufel",
+			"description": ""
+		},
+		{
+			"id": "Soap",
+			"name": "Seife",
+			"description": ""
+		},
+		{
+			"id": "Spore Mask",
+			"name": "Atemschutzmaske",
+			"description": ""
+		},
+		{
+			"id": "Stones",
+			"name": "Steine",
+			"description": ""
+		},
+		{
+			"id": "Tent",
+			"name": "Zelt",
+			"description": ""
+		},
+		{
+			"id": "Thread",
+			"name": "Garn",
+			"description": null
+		},
+		{
+			"id": "Torches",
+			"name": "Fackeln",
+			"description": ""
+		},
+		{
+			"id": "Twine",
+			"name": "Schnur",
+			"description": ""
+		},
+		{
+			"id": "Waterskin",
+			"name": "Wasserschlauch",
+			"description": ""
+		},
+		{
+			"id": "Whistle",
+			"name": "Pfeife",
+			"description": ""
+		},
+		{
+			"id": "Wooden Pole",
+			"name": "Holzpfahl",
+			"description": ""
+		},
+		{
+			"id": "Wooden Spikes",
+			"name": "Holzstacheln",
+			"description": ""
+		}
+	]
+}

@@ -1,0 +1,35 @@
+{
+	"label": "Zustände",
+	"entries": [
+		{
+			"id": "Custom",
+			"name": "Individuell",
+			"description": ""
+		},
+		{
+			"id": "Exhausted",
+			"name": "Erschöpft",
+			"description": ""
+		},
+		{
+			"id": "Frightened",
+			"name": "Verängstigt",
+			"description": ""
+		},
+		{
+			"id": "Hungry",
+			"name": "Hungrig",
+			"description": ""
+		},
+		{
+			"id": "Injured",
+			"name": "Verletzt",
+			"description": ""
+		},
+		{
+			"id": "Mad",
+			"name": "Verrückt",
+			"description": ""
+		}
+	]
+}

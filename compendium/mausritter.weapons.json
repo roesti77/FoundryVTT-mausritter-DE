@@ -1,0 +1,75 @@
+{
+	"label": "Waffen",
+	"entries": [
+		{
+			"id": "Axe",
+			"name": "Axt",
+			"description": ""
+		},
+		{
+			"id": "Bow",
+			"name": "Bogen",
+			"description": ""
+		},
+		{
+			"id": "Cleaver",
+			"name": "Beil",
+			"description": ""
+		},
+		{
+			"id": "Dagger",
+			"name": "Dolch",
+			"description": ""
+		},
+		{
+			"id": "Hammer",
+			"name": "Hammer",
+			"description": ""
+		},
+		{
+			"id": "Hookarm",
+			"name": "Haken",
+			"description": ""
+		},
+		{
+			"id": "Improvised",
+			"name": "Improvisiert",
+			"description": ""
+		},
+		{
+			"id": "Mace",
+			"name": "Morgenstern",
+			"description": ""
+		},
+		{
+			"id": "Needle",
+			"name": "Nadel",
+			"description": ""
+		},
+		{
+			"id": "Pick",
+			"name": "Spitzhacke",
+			"description": ""
+		},
+		{
+			"id": "Sling",
+			"name": "Schleuder",
+			"description": ""
+		},
+		{
+			"id": "Spear",
+			"name": "Speer",
+			"description": ""
+		},
+		{
+			"id": "Sword",
+			"name": "Schwert",
+			"description": ""
+		},
+		{
+			"id": "Warhammer",
+			"name": "Streithammer",
+			"description": ""
+		}
+	]
+}
